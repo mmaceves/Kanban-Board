@@ -2,7 +2,7 @@
 
 ## Description
 
-
+An application that will let me securely access and manage my work tasks.
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@
 
 ## Installation
 
-No installation needed.
+No installation needed, just click the link to go to the application.
 
 ## Usage
 
